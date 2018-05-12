@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '42877'
     url: http://www.gutenberg.org/2009/agents/42877
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44694#Pearse-s-Commercial-Directory-to-Swansea-and-the-Neighbourhood-for-1854
 gutenberg_issued: '2014-01-18'
 gutenberg_type: Text
 identifiers:
